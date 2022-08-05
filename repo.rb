@@ -9,3 +9,5 @@ elsif number == 3
 else
   print "#{name} has not had coffee"
 end
+
+leave = true
